@@ -1,6 +1,6 @@
 package com.tregulov.spring.rest.service;
 
-import com.tregulov.spring.mvc.entity.Employee;
+import com.tregulov.spring.rest.entity.Employee;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 package com.tregulov.spring.rest.service;
 
-import com.tregulov.spring.mvc.dao.EmployeeDAO;
-import com.tregulov.spring.mvc.entity.Employee;
+import com.tregulov.spring.rest.dao.EmployeeDAO;
+import com.tregulov.spring.rest.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
